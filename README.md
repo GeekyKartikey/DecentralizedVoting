@@ -1,9 +1,8 @@
-# LAYER-HACKATHON---BIT-BY-BIT
+# Hack-Web3-Conf-India---Web3-Sapiens
 
-A Decentralized Ethereum Voting Application - Layer0 Hackathon
+A Decentralized Ethereum Voting Application - Hack Web3 Conf India 23' Hackathon
 
 Made by :- <br /> <br />
-Kush Gupta <br />
-Aditya Majumdar <br />
-Dewashish Singh <br />
-Rahul Ray
+Kartikey Garg <br />
+Kshitij Garg <br />
+Avani Agarwal <br />
